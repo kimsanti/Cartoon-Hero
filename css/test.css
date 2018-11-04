@@ -1,0 +1,28 @@
+<style type="text/css">
+h1{
+	color:violet;
+	font-size: 90px;
+	text-decoration: underline;
+}
+h2{
+	font-size: 22px;
+	color: red;
+	background-color: pink;
+}
+.small{
+	font-size: 12px;
+}
+#first{
+	color: blue;
+	font-size: 150px;
+}
+span{
+	font-style: italic;
+}
+h2 span{
+	text-decoration: line-through;
+}
+body{
+	background-color: #CCFFFF;
+}
+</style>
